@@ -12,7 +12,7 @@ It was developed as part of a side project I was hacking around on using my pers
 
 I've released this as a standard GitHub repo instead of an NPM module due to the simplicity of this hook, especially in light of [one-line packages breaking the Internet](https://news.ycombinator.com/item?id=22979245). To use it, just copy it into your project where needed.
 
-I've released this under an [MIT license]. Feel free to use as-is, fork, copy, tear apart, profit, and share as you wish.
+I've released this under an [MIT license](https://github.com/daveschumaker/react-dark-mode-hook/blob/master/LICENSE.md). Feel free to use as-is, fork, copy, tear apart, profit, and share as you wish.
 
 ### Instructions
 
