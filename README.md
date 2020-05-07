@@ -1,6 +1,8 @@
 ## React Dark Mode Hook
 
-## Determine if user's device has dark mode enabled
+### Determine if user's device has dark mode enabled
+
+![dark mode screenshot](https://raw.githubusercontent.com/daveschumaker/react-dark-mode-hook/master/hello_world.png)
 
 ### About
 
